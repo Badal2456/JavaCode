@@ -1,5 +1,4 @@
 # JavaCode
-# JavaCode
 
 Given two sorted linked lists consisting of N and M nodes respectively. The task is to merge both of the list (in-place) and return head of the merged list.
 Example 1:
